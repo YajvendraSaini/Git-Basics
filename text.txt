@@ -1,3 +1,5 @@
 Learning Git Basics.
 
 Adding second commit.
+
+Updating text.txt file
